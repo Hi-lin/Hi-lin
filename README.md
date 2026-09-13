@@ -1,7 +1,5 @@
 ### Hi 👋 I'm Hailin Chen 🌟  
 ---
-I'm a high school senior passionate about leveraging **coding** and **mathematics** to solve real-world problems. Some technologies I love working with include **Java**, **Python**, **API development**, and **AI modeling**.  
-🌟 I enjoy diving into challenging projects that combine innovation and functionality, from creating machine learning models to designing interactive software. 🎯 I'm always eager to collaborate on open-source projects, explore cutting-edge tech, and turn ideas into impactful solutions.  🚀 Let’s build something amazing together!
 
 ---
 ### 🛠️ Skills  
@@ -19,6 +17,7 @@ I'm a high school senior passionate about leveraging **coding** and **mathematic
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ---
 ### 🏗️ Projects  
+
 - [**Facial Recognition AI**](https://github.com/Hi-lin/Facial-Recognition-AI) <br/> 
   A Siamese neural network model for real-time facial recognition.  
 - [**Auto-Scroller Game**](https://github.com/Hi-lin/ExtinctFromExtinction)<br/>
