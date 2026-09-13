@@ -2,7 +2,7 @@
 
 ### Projects  
 
-  [**FPGA Array Multiplication Accelerator**](https://github.com/Hi-lin/Verilog-Systolic-Array-Multiplier) <br/>
+- [**FPGA Array Multiplication Accelerator**](https://github.com/Hi-lin/Verilog-Systolic-Array-Multiplier) <br/>
   A systolic array for pipelined matrix multiplication of 8-bit integers.
 - [**Facial Recognition AI**](https://github.com/Hi-lin/Facial-Recognition-AI) <br/> 
   A Siamese neural network model for real-time facial recognition.  
